@@ -1,0 +1,17 @@
+[
+	{
+		"nombre": "Mesa",
+		"precio": 30750,
+		"id": 1
+	},
+	{
+		"nombre": "Silla",
+		"precio": 11500,
+		"id": 2
+	},
+	{
+		"nombre": "Heladera",
+		"precio": 15000,
+		"id": 3
+	}
+]
